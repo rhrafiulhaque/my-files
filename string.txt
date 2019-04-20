@@ -1,0 +1,16 @@
+scanf(" %[^\n]", str);
+
+if condition
+-----------------
+for(i=0;i<strlen(S);i++){
+	if(S[i]>='a' && S[i]<='z')
+	{
+		count[S[i]-'a']++;
+	}
+}
+
+
+characer ascii code
+___________________
+a---z= 97-122
+A--Z= 65 - 90
